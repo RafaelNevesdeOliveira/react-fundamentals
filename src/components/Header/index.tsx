@@ -1,6 +1,6 @@
 import { HeaderContainer } from './styles'
 import { Scroll, Timer } from 'phosphor-react'
-import logoIgnite from '../assets/dragonball-z.svg'
+import logoIgnite from '../../assets/dragonball-z.svg'
 
 export function Header() {
   return (
